@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Islington, or, The confession, and execution, of George Allin butcher who now hangs in chains near to Islington, with a full and true relation of his whole confession before several godly ministers who came dayly to visit him in Newgate. With the tryal of one Stevens for breaking open a house at Branford.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27369</idno><idno type="EEBO-CITATION">99828567</idno>
+  <idno type="VID">173136</idno>
+  <idno type="EEBO-PROQUEST">2240866242</idno>
+  
+            <idno type="STC">Wing N976</idno>
+            <idno type="STC">ESTC R216850</idno>
+            <idno type="PROQUEST">99828567</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828567e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173136)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1955:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Islington, or, The confession, and execution, of George Allin butcher who now hangs in chains near to Islington, with a full and true relation of his whole confession before several godly ministers who came dayly to visit him in Newgate. With the tryal of one Stevens for breaking open a house at Branford.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173136:1"/>
+            <p>NEWS from <hi>ISLINGTON,</hi> OR, The Confession, AND EXECUTION, OF <hi>GEORGE ALLIN</hi> BUTCHER, Who now Hangs in CHAINS Near TO <hi>ISLINGTON,</hi> With a full and True Relation of his whole Con<g ref="char:EOLhyphen"/>fession before several Godly Ministers who came Dayly to visit him in <hi>Newgate.</hi>
+            </p>
+            <p>With the Tryal of one <hi>Stevens</hi> for Breaking open a House at <hi>Branford.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173136:2"/>
+            <pb n="1" facs="tcp:173136:2"/>
+            <head>News from the Sessions-House.</head>
+            <p>AT the General Sessions of Oyer and Terminer, and Goal delivery, held for the County of <hi>Middlesex</hi> and Citty of <hi>London,</hi> upon <hi>Friday</hi> and <hi>Saturday,</hi> the 19. and 20. of <hi>February</hi> Instant. Were arraigned several Malefactors for Crimes of sundry Natures, inconsiderable, other the more remarkable were these that follow.</p>
+            <p>The first was one <hi>Harker</hi> an Ostler at the Bell-Inn on <hi>Fish-street</hi> Hill who was arraigned upon two se<g ref="char:EOLhyphen"/>veral Indictments, the one for the Felonious stealing of a Horse, the other for the taking away of Monyes to the value of fourscore Pounds and upwards, from one Mr. <hi>Sterling,</hi> a Gentleman that lay in the same Inn, it seemes upon the evidence, that this Gentleman overnight spoke to the said Hostler to get his Horse ready the next Morning for his journy; which ac<g ref="char:EOLhyphen"/>cordingly was done, and that Morning the Gentleman finding his Horse made ready, took his Portmante wherein was fourscore Pounds and upwards, and laid it on himself upon the Horse and fastned it, and then going back again upon some occasion into the House, at his retutn within a very little time, finds his horse and mony gone and the Ostler to boot, who had tak<g ref="char:EOLhyphen"/>en this opportunity of his absence to leap into the
+<pb n="5" facs="tcp:173136:3"/> the Saddle and ride away with the booty; the Gen<g ref="char:EOLhyphen"/>tleman being thus left in the Lurch, finds it to little purpose to pursue after him, but rests for a while as patient as the reflections of so great a loss and disap<g ref="char:EOLhyphen"/>pointment would suffer him, It happened the same day towards Evening that a friend of this Gentlemans being in <hi>Russel-street</hi> near <hi>Drury-Lane,</hi> towards the Evening saw the aforesaid Hostler passing by, He was then diguised with a Periwig so that he was not easy to be known, however the Gentleman apprehended him and it proved the same person, and he Confess<g ref="char:EOLhyphen"/>ed before the justice upon his examination that it was he that rode away with the Gentlemans Horse, and mony, and being demanded what he had done with them, he acquainted them that he had hid the mony (all but a little) that he took out for present occasions in <hi>Cane-wood</hi> near <hi>Highgate,</hi> and there according to his directions going over to the place they found it the horse he had left at Holloway tying him to a B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh, in the High-way and upon inquiry in the Ne ghbour<g ref="char:EOLhyphen"/>hood there they chanced to heare of him, and the Gentleman had him returned again also.</p>
+            <p>Upon his tryal he confest that he had rod away with the Horse and mony, but desired the savour of the Court in respect that the Gentleman had his Horse and mony returned again, which matter being left to the Jury, they brought him upon the first indictment for stealing the horse not guilty, upon the second they found him as for taking the mony; notwith<g ref="char:EOLhyphen"/>standing the Court not being satisfied with their first Verdict, sent them out again to consider of it, but
+<pb n="3" facs="tcp:173136:3"/> they brought in the same again that he was not Guil<g ref="char:EOLhyphen"/>ty of Stealing the Horse, for that as they said they un<g ref="char:EOLhyphen"/>derstood the Gentlemans Horse was delivered to him to hold while the Gentleman went in, which made a Lawful possession, and therefore could be no Felonius taking him away, but the Court seemed to be of another opinion.</p>
+            <p>The fact was not more knavish then the next was Tragical, which was the tryal of that bloudy and in<g ref="char:EOLhyphen"/>humane Villaine, the Butcher that kild his Wife at <hi>Islington,</hi> the fact was apparently proved against him by divers witnesses to whom he confest it, and by exa<g ref="char:EOLhyphen"/>mination taken before a Justice upon his apprehention neither indeed did he go about to deny it at his Tryal but rath<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r seemed to justified it both by his words and cariage, for when the Court asked him if he did not find a remors and trouble in his spirit for what he had done, he replyed that it did not, and that his Wife m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght thank her self for what she suffered for, that she urged him to it, upon the whole circumstance of the Evidence it appeared that this fellow had lived with this aforesaid wife for the space of near too years, leaving her that time in the Country, and keeping himself in <hi>London,</hi> where he drove the Trade of a Butcher, of which profession he proved to be from first to last, about the Bowling-ally in <hi>Turnbal-street;</hi> the <hi>Tuesday</hi> before the fact was done, the woman his wife, having been with him some days in town, and did by his order go back to the Town where she liv<g ref="char:EOLhyphen"/>ed to fetch up some things that he wanted, and was to return again the <hi>Tuesday</hi> following, which she did and
+<pb n="4" facs="tcp:173136:4"/> as soon as she came to Town, poor Soul, goes directly to her bloody minded Husband, who seeming all this while to be taking care for a settlement for her, was in the mean while rather studying to destroy her, for upon her arrival he acquaints her that he had tak<g ref="char:EOLhyphen"/>en a new Lodging at <hi>Islington</hi> where they were to lye that night, and thither she must go with him, which she did, following him along <hi>Hatton-Garding,</hi> to <hi>Clarkenwel</hi> and so to <hi>Islington,</hi> where taking his oppor<g ref="char:EOLhyphen"/>tunity near the Gravel-pits, a place fit for his hellish purpose, he fell upon her, and in a Barbarous manner gave her several deadly wounds in her head and Breast with her own Pattin, of which wounds she was found dead the next Morning being <hi>Saturday,</hi> and the same day the Murtherer was also by the providence of the Divine justice found out and discoverd, as hath been formerly related to you in another account of this Targedy.</p>
+            <p>There was also indicted a young man and a maid that had been lately Servants to a Gentleman whose house being not far out of Town, was lately broke o<g ref="char:EOLhyphen"/>pen and Robed, whence they lost several pieces of plate, and other things of greater value, and these two persons being suspected to be the acters or at least ac<g ref="char:EOLhyphen"/>cessaries to the robery, were now tryed upon it, the fact upon the tryal appeared to be thus, the Gentle<g ref="char:EOLhyphen"/>man of the House was that night abroad, his Wife and maid lay in a roome up one pair of stairs with a little Child of the gentlemans, towards Morning ear<g ref="char:EOLhyphen"/>ly comes in three men into the roome in Vizards and a light with them, with Weapons, the one having an
+<pb n="5" facs="tcp:173136:4"/> Hanger, another an Holbert, and the third a Pistol, in this formidable posture they came to her Bedside.</p>
+            <div type="part">
+               <head>The Confession of <hi>George Allin</hi> before several Ministers in <hi>Newgate.</hi>
+               </head>
+               <p>AFter the Ministers had prayed with him, they urged to know the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eason why he killed his Wife, and the cause of his first leaving of her; he replyed, that she had kept others Company; and could not therefore live Contented, and therefore left her? Then afterwards, fell in Love with a Servant Maid that lived next door to his Masters, and that it was through her means that he killed her, for she had moved him several times to marry her, and he re<g ref="char:EOLhyphen"/>plyed, that be could not well do it; by reason he had a Wife already; desired to know whether she would have him knock her in the head; she Answered, do what you will <hi>George.</hi> Furthermore he was asked whether he had made use of this Persons Body; to this after long consideration; Confessed that he had, and that it was through her means that he killed his Wife, and farther did confess in the hearing of seve<g ref="char:EOLhyphen"/>ral; that he had but then parted with the Maid in one Field, and killed his Wife in the next. Then he and she coming face to face these things being laid to her charge she utterly denied, to which he replyed, that he had bought her a Ring, that cost him twenty eight shillings, which was all the Money that he could make shift for; and that he did always give her all the money that he could shift for, and that he had
+<pb n="6" facs="tcp:173136:5"/> not Money for to Marry her, to which she replied; that she would find Money.</p>
+               <p>He is become very penitent, and is seldome or ne<g ref="char:EOLhyphen"/>ver without his book in his hand Reading, and Pray<g ref="char:EOLhyphen"/>ing to God to forgive him for all his former sins and Wickedness; and more especially for this Crying sin of Murdering his own dear flesh and Blood, which hainous sinne Cryes to God for vengeance against him: He desaes all people to pray for him, (especi<g ref="char:EOLhyphen"/>ally Young people,) desiring them to take example by him; and his shameful death; and to have a spe<g ref="char:EOLhyphen"/>ciall care what Company they keep, and to beware of the Company of Evil Women which had been the Chief cause of this his shameful End.</p>
+               <p>There was also Tryed one <hi>Stevens</hi> for breaking open a House at Brandford which was the house where he usually Lodged; his Landlady having laid up 30. pounds for to pay her Brewer he having some sight thereof longed for an oportunity; whereby he might furnish himself with that Treasure, To accom<g ref="char:EOLhyphen"/>plish which design, he on the next morning went forth and staid out all the day, and the best part of the Night; then coming to the house and finding all things secure, he broke into the house, and took a<g ref="char:EOLhyphen"/>way the money, besides plate and the Rings: to the value of 60. pounds for which he was Tryed, and Con<g ref="char:EOLhyphen"/>demned to be hanged.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
